@@ -91,7 +91,7 @@ export default function header() {
                 src="/youtube.svg"
                 alt="youtube Logo"
                 width={100}
-                height={24}
+                height={25}
               />
             </A>
             <A href="">
